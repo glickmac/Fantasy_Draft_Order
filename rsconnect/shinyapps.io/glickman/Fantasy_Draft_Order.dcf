@@ -1,0 +1,13 @@
+name: Fantasy_Draft_Order
+title: Fantasy_Draft_Order
+username:
+account: glickman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 285330
+bundleId: 1230718
+url: https://glickman.shinyapps.io/Fantasy_Draft_Order/
+when: 1519082116.94021
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: math|Ordering.py|python_draft.txt|random|README.md
